@@ -1,6 +1,6 @@
-# IMAGES-FILES-BML-PROJECTEN
+# WORKSHOPS
 
-Met deze repository kun je **images** en **files** (zoals `.json` en `.csv`) online beschikbaar stellen voor BML‑projecten.
+Met deze repository kun je **images** en **files** (zoals `.json` en `.csv`) online beschikbaar stellen voor workshops.
 
 ## Structuur van de repository
 
@@ -22,10 +22,10 @@ Met deze repository kun je **images** en **files** (zoals `.json` en `.csv`) onl
 2. Klik op **Add file** → **Upload files**.
 3. Sleep één of meer bestanden naar het uploadvenster of kies ze via de bestandskiezer.
 4. Controleer of de bestanden in de juiste map staan.
-5. Vul een korte, duidelijke commit message in (bijv. `Add nieuwe images voor project X`).
+5. Vul een korte, duidelijke commit message in (bijv. `Add nieuwe images voor workshopX`).
 6. Klik op **Commit changes** om de upload op te slaan.
 
-> Tip: je kunt submappen maken door in de bestandsnaam een pad te gebruiken, bijvoorbeeld `project1/example.png`.
+> Tip: je kunt submappen maken door in de bestandsnaam een pad te gebruiken, bijvoorbeeld `workshopx/example.png`.
 
 ## Bestanden downloaden (via GitHub webinterface)
 
